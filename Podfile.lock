@@ -1,0 +1,89 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - AliyunOSSiOS (2.10.7)
+  - FDFullscreenPopGesture (1.1)
+  - FLAnimatedImage (1.0.12)
+  - IQKeyboardManager (6.2.1)
+  - Masonry (1.0.2)
+  - MBProgressHUD (1.1.0)
+  - MJExtension (3.0.16)
+  - MJRefresh (3.1.16)
+  - SDAutoLayout (2.2.1)
+  - SDCycleScrollView (1.75):
+    - SDWebImage (>= 4.0.0)
+  - SDWebImage (4.2.3):
+    - SDWebImage/Core (= 4.2.3)
+  - SDWebImage/Core (4.2.3)
+  - TencentOpenAPI (1.0.0)
+  - WechatOpenSDK (1.8.4)
+  - XHLaunchAd (3.9.8):
+    - FLAnimatedImage (~> 1.0.12)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.1.0)
+  - AliyunOSSiOS
+  - FDFullscreenPopGesture (= 1.1)
+  - IQKeyboardManager (~> 6.2.0)
+  - Masonry (= 1.0.2)
+  - MBProgressHUD (~> 1.1.0)
+  - MJExtension (~> 3.0.13)
+  - MJRefresh (~> 3.1.15)
+  - SDAutoLayout
+  - SDCycleScrollView
+  - SDWebImage (~> 4.2.0)
+  - TencentOpenAPI
+  - WechatOpenSDK
+  - XHLaunchAd
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - AliyunOSSiOS
+    - FDFullscreenPopGesture
+    - FLAnimatedImage
+    - IQKeyboardManager
+    - Masonry
+    - MBProgressHUD
+    - MJExtension
+    - MJRefresh
+    - SDAutoLayout
+    - SDCycleScrollView
+    - SDWebImage
+    - TencentOpenAPI
+    - WechatOpenSDK
+    - XHLaunchAd
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  AliyunOSSiOS: 602b6a4e70e62a5f0a6431c20496343141d7e66f
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  IQKeyboardManager: 964638372b4a61892cc74fdfa6fd26de8c9464a2
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MJExtension: 54dbbf6ee728f1a88e9aad904353d007831c7847
+  MJRefresh: 7798e16e53a5ef7f332dd05b27664db4e29530fd
+  SDAutoLayout: 8bf6b3bbc8b01f775d4defbb4fda2ace805461be
+  SDCycleScrollView: 884b88f0266dd4708a0e1934975c69cb971707b1
+  SDWebImage: 791bb72962b3492327ddcac4b1880bd1b5458431
+  TencentOpenAPI: ddc6fb0134b25c9078ccd27fd2259ed0cc30a49a
+  WechatOpenSDK: 9b721089507c895d05f997408c30bb6e6f5f9b60
+  XHLaunchAd: 45048592af01aa501c9d2d0c45e95ca74c4d0596
+
+PODFILE CHECKSUM: bfdd314a6ee512e2c3c74aeb5becb7784bdca723
+
+COCOAPODS: 1.5.3
